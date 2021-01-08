@@ -6,7 +6,7 @@ from django.db import models
 class Companies(models.Model):
     year = models.TextField(blank=True, null=True)
     row = models.IntegerField(blank=True, null=True)
-    id = models.IntegerField(blank=True, null=True)
+    id = models.IntegerField(blank=True, primary_key=True)
     # Field renamed to remove unsuitable characters.
     net_profit_total_assets = models.FloatField(
         db_column='net profit / total assets', blank=True, null=True)
