@@ -1,2 +1,2 @@
-/Python_for_Data_Analysis_-_Project/restapi/env
-/Python_for_Data_Analysis_-_Project/restapi/djangoapi/__pycache__
+restapi/.env
+restapi/djangoapi/__pycache__
