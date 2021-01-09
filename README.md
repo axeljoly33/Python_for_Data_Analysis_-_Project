@@ -1,7 +1,7 @@
 # Python for Data Analysis-Devoir 2021
 #### Par Clément Jaccarino et Axel Joly
 </br>
-Le dataset utilisé est [https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data]("Polish companies bankruptcy data Data Set"), composé d'attributs étant des taux financiers et d'une classe donnant si l'entreprise a fait faillite ou non.
+Le dataset utilisé est [Polish companies bankruptcy data Data Set](https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data), composé d'attributs étant des taux financiers et d'une classe donnant si l'entreprise a fait faillite ou non.
 </br>
 </br>
 À partir de ce dataset, on peut se poser les questions suivantes :
