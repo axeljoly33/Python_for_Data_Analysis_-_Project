@@ -13,6 +13,11 @@ Le dataset utilisé est [Polish companies bankruptcy data Data Set](https://arch
 - Pouvons-nous prédire la faillite d’une entreprise Polonaise à l’aide d’indicateurs clé ?
 </br>
 </br>
+Nous vous conseillons, avant de lire la suite, de parcourir le fichier Notebook afin de pleinement apprécier l'exploration des données, leurs visualisations et les modèles de prédictions mises en place.
+</br>
+Avec l'ensemble de données, les graphiques et les données interprétées, on peut se permettre de conclure qu'il n'y a pas vraiment d'indices (d'attributs) fort au repérage d'une entreprise polonaise qui pourrait faire faillite dans un avenir proche.
+</br>
+</br>
 Login Credential to the Django App:
 </br>
 User : admin
